@@ -13,5 +13,8 @@ challange. Problem sets can be found [here][2].
 Explanations regarding individual problem's solutions can be found in comments
 in their respective source code.
 
+![Project Euler Badge][3]
+
 [1]: https://projecteuler.net/about
 [2]: https://projecteuler.net/archives
+[3]: https://projecteuler.net/profile/leiteg.png
