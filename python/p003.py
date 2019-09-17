@@ -26,7 +26,6 @@ def factors(number):
     return factors
 
 
-@memoize
 def is_prime(number):
     return len(factors(number)) == 2
 
