@@ -15,6 +15,23 @@ in their respective source code.
 
 ![Project Euler Badge][3]
 
+Problems
+--------
+
+| Problem |  0  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |
+| ------: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|    000  |     | ✅  | ✅  |     |     |     |     |     |     |     |
+|    010  |     |     |     |     |     |     |     |     |     |     |
+|    020  |     |     |     |     |     |     |     |     |     |     |
+|    030  |     |     |     |     |     |     |     |     |     |     |
+|    040  |     |     |     |     |     |     |     |     |     |     |
+|    050  |     |     |     |     |     |     |     |     |     |     |
+|    060  |     |     |     |     |     |     |     |     |     |     |
+|    070  |     |     |     |     |     |     |     |     |     |     |
+|    080  |     |     |     |     |     |     |     |     |     |     |
+|    090  |     |     |     |     |     |     |     |     |     |     |
+|    100  |     |     |     |     |     |     |     |     |     |     |
+
 [1]: https://projecteuler.net/about
 [2]: https://projecteuler.net/archives
 [3]: https://projecteuler.net/profile/leiteg.png
