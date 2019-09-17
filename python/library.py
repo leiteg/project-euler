@@ -5,12 +5,15 @@ import sys
 
 def memoize(fn):
     """Decorator to memoize a function's results"""
-    setattr(fn, "table", {})
+    fn.table = {}
+    fn.total_calls = 0
+    fn.real_calls = 0
 
     @functools.wraps(fn)
     def decorator(n):
-        setattr(decorator, "fn", fn)
+        fn.total_calls += 1
         if n not in fn.table:
+            fn.real_calls += 1
             fn.table[n] = fn(n)
         return fn.table[n]
 
